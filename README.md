@@ -1,7 +1,7 @@
 # Azure-Networking-103
 Getting Started with Cloud Networking
 
-![alt text](https://raw.githubusercontent.com/danielecolon/Azure-Compute-102/refs/heads/main/CloudStorage.png)
+![alt text](https://raw.githubusercontent.com/danielecolon/Azure-Networking-103/refs/heads/main/CloudStorage.png)
 
 ## Details
 Join us for a beginner-friendly introduction to Azure Compute, where we'll cover the basics of Microsoft's cloud compute solutions.
