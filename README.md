@@ -1,4 +1,4 @@
-# Azure-Networking-103
+# Azure Networking 103
 Getting Started with Cloud Networking
 
 ![alt text](https://raw.githubusercontent.com/danielecolon/Azure-Networking-103/refs/heads/main/CloudStorage.png)
