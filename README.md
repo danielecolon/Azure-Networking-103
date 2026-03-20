@@ -10,6 +10,12 @@ In this session, you'll learn about the key Azure Compute Services, including Vi
 
 Perfect for anyone new to cloud computing or looking to build a strong foundation in Azure Compute.
 
+### YouTube
+[Azure Compute 103 Getting Started with Azure Networking](https://www.youtube.com/watch?v=BvNlBB6rAV4&t=2255s)
+
+### Slides
+[AzureNetworking103-GettingStartedwithCloudNetworking.pdf](AzureNetworking103-GettingStartedwithCloudNetworking.pdf)
+
 ## Speaker
 Daniel Colón has expertise in cloud, infrastructure, and systems integration obtained through 20 plus years of working as a manager, architect and developer on mission critical back-end systems that have included various cloud platforms such as SoftLayer, AWS and Azure. He has taught various courses at Northeastern University including ASP.NET, C#, and XML Web Services. He has certifications including A+, Security+, Azure Solutions Architect Expert.
 
